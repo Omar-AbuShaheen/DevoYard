@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC51A88A-24F7-43C6-8C98-01AB16E85EC8}|..\\Services-DevoYard\\Services-DevoYard.csproj|c:\\users\\omars\\source\\repos\\services-devoyard\\userservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|c:\\users\\omars\\source\\repos\\omar-devoyard-v1\\models\\users\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E21C33-F037-415C-A3C6-FCC2E791DD4B}|Omar-Devoyard-v1.csproj|solutionrelative:models\\users\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93809838-A149-49AA-A15B-23DDC85D8349}|..\\DAL-DevoYard\\DAL-DevoYard.csproj|c:\\users\\omars\\source\\repos\\dal-devoyard\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:21:55.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:28:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\DAL-DevoYard\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL-DevoYard\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\DAL-DevoYard\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DAL-DevoYard\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:19:30.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:50:31.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T13:50:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T13:49:36.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T13:44:27.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:44:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Services-DevoYard\\UserServices\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\Services-DevoYard\\UserServices\\UserServices.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Services-DevoYard\\UserServices\\UserServices.cs",
+              "RelativeToolTip": "..\\Services-DevoYard\\UserServices\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:35:10.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T16:08:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Models\\Users\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\Users\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\omars\\source\\repos\\Omar-Devoyard-v1\\Models\\Users\\LoginModel.cs",
+              "RelativeToolTip": "Models\\Users\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:21:36.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

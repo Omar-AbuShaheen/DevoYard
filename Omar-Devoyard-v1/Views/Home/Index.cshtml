@@ -1,0 +1,30 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+
+    // Retrieve the username from the session
+    var userName = HttpContextAccessor.HttpContext.Session.GetString("UserName");
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @if (!string.IsNullOrEmpty(userName))
+    {
+        <p>Hello, @userName!</p>
+        <p>
+            <a href="@Url.Action("Login", "Account")" class="btn btn-danger">Logout</a>
+        </p>
+    }
+    else
+    {
+        <p>Hello, Guest!</p>
+        <p>
+            <a href="@Url.Action("Login", "Account")" class="btn btn-primary">Login</a>
+        </p>
+    }
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core" class="link-primary">building Web apps with ASP.NET Core</a>.</p>
+</div>
